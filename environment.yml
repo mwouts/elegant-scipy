@@ -21,6 +21,7 @@ dependencies:
 - pip:
   # not available on conda, so use pip
   - notedown>=1.5
+  - jupytext>=1.2.0rc3
   - jupytercontrib>=0.0.5
   - bs4
   # need improvements from master branch
